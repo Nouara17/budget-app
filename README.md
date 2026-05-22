@@ -1,2 +1,2 @@
-# budget-app
-Application web de gestion de budget personnel - HTML CSS JavaScript Bootstrap
+# golden-beauty
+Site e-commerce beaute et maquillage - HTML CSS JavaScript Bootstrap
